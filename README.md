@@ -10,7 +10,11 @@
 
 ### I'm currently learning:
 
-<a href="https://github.com/MatheusPrandato/html-css" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white"/></a> <a href="https://github.com/MatheusPrandato/html-css" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white"/></a> <a href="https://github.com/MatheusPrandato/javascript" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white"/></a> <a href="https://github.com/MatheusPrandato/javascript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=round&logo=javascript&logoColor=F7DF1E"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white"/>
+<a href="https://github.com/MatheusPrandato/html-css"><img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white"/></a>
+<a href="https://github.com/MatheusPrandato/html-css"><img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white"/></a>
+<a href="https://github.com/MatheusPrandato/html-css/tree/master/qrg-project"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white"/></a> 
+<a href="https://github.com/MatheusPrandato/javascript"><img src="https://img.shields.io/badge/JavaScript-323330?style=round&logo=javascript&logoColor=F7DF1E"/></a> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white"/>
 
 <hr>
 
